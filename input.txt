@@ -1,0 +1,8 @@
+Superman
+male
+Batman
+male
+Spiderman
+male
+Wonder Woman
+female
